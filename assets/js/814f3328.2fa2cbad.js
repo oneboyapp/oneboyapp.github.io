@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkoneboy_app=globalThis.webpackChunkoneboy_app||[]).push([[7472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);
